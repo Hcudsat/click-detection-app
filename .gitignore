@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+dist/
+.env
+frontend/.env
+.DS_Store
+backend/clicks.db
